@@ -1,16 +1,49 @@
-# keuangan_app
 
-A new Flutter project.
+# Keuangan App
 
-## Getting Started
+Aplikasi Keuangan Internal, dibuat menggunakan Flutter versi 2.5.3
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Halaman Login
+- Halaman Home untuk melihat Posisi Total Saldo dan Stok
+- Halaman Transaksi untuk melihat daftar transaksi yang Approved
+- Halaman Konfirmasi untuk melihat transaksi yang pending/belum di Approve dan Proses Approval
+- Halaman Nilai Stok Barang
+- Halaman Summary Transaksi
+- Proses Transaksi Masuk, Keluar, Pindah Outlet dan Tukar Kurs
+- Cetak Laporan ke pdf 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Login.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20HomePage.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Trx%20Masuk.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Trx%20Keluar.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Trx%20Pindah%20Outlet.jpg" width=25% height=25%/>  
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Trx%20Pindah%20Kurs.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Transaksi.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Konfirmasi.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Summary%201.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Summary%202.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Laporan.jpg" width=25% height=25%/>   
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Cetak%20Laporan%20Pdf.jpg" width=25% height=25%/>
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Stok%20Barang.jpg" width=25% height=25%/>
+</p>
+
+## API
+
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20API.png" width=65% height=65%/> 
+</p>
+
+## Preview
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=iX2uhSx1Nig"><img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20HomePage.jpg" width=25% height=25% alt="Keuangan App"></a>
+</div>
+
+
