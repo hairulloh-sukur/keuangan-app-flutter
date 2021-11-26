@@ -40,7 +40,7 @@ Aplikasi Keuangan Internal, dibuat menggunakan Flutter versi 2.5.3
     <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20API.png" width=65% height=65%/> 
 </p>
 
-## Preview
+## Preview Video
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=iX2uhSx1Nig"><img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20HomePage.jpg" width=25% height=25% alt="Keuangan App"></a>
