@@ -1,8 +1,12 @@
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width=25% height=25%/> 
+
+<br>
 
 # Keuangan App
 
 Aplikasi Keuangan Internal, dibuat menggunakan Flutter versi 2.5.3
 
+<br>
 
 ## Fitur
 
@@ -15,6 +19,7 @@ Aplikasi Keuangan Internal, dibuat menggunakan Flutter versi 2.5.3
 - Proses Transaksi Masuk, Keluar, Pindah Outlet dan Tukar Kurs
 - Cetak Laporan ke pdf 
 
+<br>
 
 ## Screenshots
 
@@ -34,11 +39,15 @@ Aplikasi Keuangan Internal, dibuat menggunakan Flutter versi 2.5.3
     <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20App%20Keuangan%20-%20Stok%20Barang.jpg" width=25% height=25%/>
 </p>
 
+<br>
+
 ## API
 
 <p align="left"> 
     <img src="https://github.com/hairulloh-sukur/keuangan-app-flutter/blob/main/screenshot/Screenshot%20API.png" width=65% height=65%/> 
 </p>
+
+<br>
 
 ## Preview Video
 
